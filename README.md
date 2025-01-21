@@ -2,7 +2,7 @@
 
 ## Live Demo
 You can view the live demo of this project at:  
-[**K-Means Clustering for Customer Segmentation**](https://k-means.streamlit.app/)
+[**K-Means Clustering for Customer Segmentation**](https://k-means-algorithm.streamlit.app/)
 
 ## Technologies
 
