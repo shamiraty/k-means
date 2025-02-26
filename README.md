@@ -1,8 +1,19 @@
 # K-MEANS CLUSTERING: CUSTOMER SEGMENTATION
 
-## Live Demo
-You can view the live demo of this project at:  
-[**K-Means Clustering for Customer Segmentation**](https://k-means-algorithm.streamlit.app/)
+- **Location**: Dodoma, Tanzania
+- **Email**: [sashashamsia@gmail.com](mailto:sashashamsia@gmail.com)
+- **WhatsApp**: [+255675839840](https://wa.me/255675839840)
+- **Demo**: [Online](https://k-means-algorithm.streamlit.app/)
+  <!--- **Youtube**: [Videos](https://www.youtube.com/channel/UCjepDdFYKzVHFiOhsiVVffQ)-->
+  
+## Disclaimer
+
+> The customer records used to train and test the **Symptom-Matcher AI** model are **not real customer data**. They are **fictitious data** that have been generated for educational purposes only. These records have no connection to any actual individuals or real-life customer information.
+
+> The products, transactions, and customer details displayed in the application are **for learning and demonstration purposes**. They do not represent actual business records and should not be interpreted as such. The use of these simulated cases is intended solely for academic and training purposes.
+
+> This application and its content are not intended to diminish or disrespect any real-world businesses, institutions, or individuals. The information presented is purely hypothetical and should not be used for actual business decisions. The primary goal of this project is to provide a platform for learning and development in the field of machine learning and inventory management technology.
+
 
 ## Technologies
 
